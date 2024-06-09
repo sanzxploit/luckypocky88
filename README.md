@@ -60,8 +60,9 @@ DONATE: https://saweria.co/xrob
     6. pkg install figlet
     7. git clone https://github.com/MrSanZz/pandora
     8. cd pandora
-    9. pip3 install -r requirements.txt
-    10. python3 setup.py
-    11. python3 pandora.py 
+    9. cd xploit
+    10. pip3 install -r requirements.txt
+    11. python3 setup.py
+    12. python3 pandora.py 
 ```
 <span></span>
